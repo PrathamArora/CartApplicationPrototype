@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="incrementDefaultColor">#649d66</color>
+    <color name="decrementDefaultColor">#e43f5a</color>
+
+    <color name="black">#000</color>
+    <color name="valueDefaultColor">#828282</color>
+
+</resources>

@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">SmartKart</string>
+    <string name="all_products">All Products</string>
+    <string name="product_image">Product Image</string>
+    <string name="like_button">Like Button</string>
+    <string name="our_price">Our Price</string>
+    <string name="out_of_stock">Out of Stock</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="back_button">Back Button</string>
+    <string name="cart_image">Cart Image</string>
+    <string name="empty_cart">Empty Cart</string>
+    <string name="my_cart">My Cart</string>
+    <string name="buy_now">Buy Now</string>
+    <string name="payment_successful_icon">payment successful icon</string>
+    <string name="success">Success</string>
+    <string name="confirmation_id">Confirmation#: 0000888</string>
+    <string name="processed_24_hours">Thank you! Your payment will be processed with 24 hours</string>
+    <string name="rupee">\u20B9</string>
+    <string name="back_to_shopping_menu">Back to shopping menu</string>
+    <string name="product">Product</string>
+    <string name="qty">Qty</string>
+    <string name="best_price">Best Price</string>
+</resources>
